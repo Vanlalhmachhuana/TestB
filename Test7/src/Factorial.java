@@ -17,3 +17,19 @@ public class Factorial {
 	}
 
 }
+/*Scanner van=new Scanner(System.in);
+
+int num,i=1,j=1;
+System.out.println("Enter any No.:");
+num=van.nextInt();
+van.close();
+while(i<=num)
+  {
+	
+	j=j*i;
+	i++;
+ }
+System.out.println(" "+j);
+}
+
+}*/
